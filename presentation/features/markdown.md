@@ -15,4 +15,4 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 ---
 ### Another slide int eh Markdown .md file
-<span style="font-size:0.6em>What is the link???</span>
+<span style="font-size:0.6em">What is the link???</span>
